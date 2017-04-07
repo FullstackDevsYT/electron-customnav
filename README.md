@@ -1,8 +1,7 @@
-##electron-customnav
-built by `Fullstack Devs`
+electron-customnav built by `Fullstack Devs`
 
-can be found <a href="https://github.com/FullstackDevsYT/electron-customnav">Here</a><Br>
-##installation Guide
+can be found <a href="https://github.com/FullstackDevsYT/electron-customnav">Here</a><Br><br>
+installation Guide:
 ```sh
 # clone this project
 git clone https://github.com/FullstackDevsYT/electron-customnav
