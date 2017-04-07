@@ -1,0 +1,42 @@
+{
+  "Background":"#e6e6e6" ,
+  "TextColor":"#1E90FF",
+  "navBackground":"#a7a7a7",
+  "Toggler": {
+    "Background": "#a7a7a7",
+    "Minimize": {
+      "Background": {
+        "Static":"#a7a7a7",
+        "Hover":"#FFFFFF"
+      },
+      "Color": {
+        "Static":"#1E90FF",
+        "Hover":"#1E9"
+      }
+    },
+    "Maximize": {
+      "Background": {
+        "Static":"#a7a7a7",
+        "Hover":"#FFFFFF"
+      },
+      "Color": {
+        "Static":"#1E90FF",
+        "Hover":"#1E9"
+      }
+    },
+    "Close": {
+      "Background": {
+        "Static":"#a7a7a7",
+        "Hover":"#FF0000"
+      },
+      "Color": {
+        "Static":"#FF0000",
+        "Hover":"#f7f7f7"
+      }
+    }
+  },
+  "Title": {
+    "FontWeight": "bold",
+    "FontFamily": "Arial"
+  }
+}

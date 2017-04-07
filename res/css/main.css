@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+main{
+    position: absolute;
+    top: 30px;
+    height: calc(100% - 30px);
+    width: 100%;
+    left: 0;
+    overflow-y: auto;
+}
+
+#image{
+    width: 70%;
+    height: 100%;
+    float: left;
+    display: block;
+    padding: 3em 5em;
+}
+
+#sidebar{
+    width: 30%;
+    height: 100%;
+    float: left;
+    display: block;
+    padding: 3em 2em;
+}
